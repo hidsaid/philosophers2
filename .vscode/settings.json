@@ -1,0 +1,10 @@
+{
+	"files.associations": {
+		"unistd.h": "c",
+		"limits.h": "c",
+		"philo.h": "c",
+		"chrono": "c",
+		"stdlib.h": "c",
+		"stdio.h": "c"
+	}
+}
